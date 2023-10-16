@@ -485,6 +485,7 @@ local servers = {
   -- rust_analyzer = {},
   -- html = { filetypes = { 'html', 'twig', 'hbs'} },
   tsserver = {},
+  tailwindcss = {},
 
   lua_ls = {
     Lua = {
